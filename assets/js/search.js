@@ -1,0 +1,1 @@
+document.querySelector("#searchQuery").addEventListener("submit",e=>{e.preventDefault(),window.location.href=`search.php?search=${document.querySelector("#searchVal").value}`});

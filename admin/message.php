@@ -1,0 +1,1 @@
+<?php if(isset($_SESSION['msg'])){ ?><div class="alert alert-dismissible alert-warning fade show"role="alert"><?=$_SESSION['msg']?><button aria-label="Close"class="btn-close"data-bs-dismiss="alert"type="button"></button></div><?php }unset($_SESSION['msg']) ?>

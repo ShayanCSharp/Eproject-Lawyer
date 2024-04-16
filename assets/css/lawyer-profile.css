@@ -1,0 +1,1 @@
+.info,.profile{box-shadow:rgba(60,64,67,.3) 0 1px 2px 0,rgba(60,64,67,.15) 0 2px 6px 2px}.profile{width:60vmax;height:650px;border-radius:8px}.profile img{width:120px;height:120px;border-radius:50%;object-fit:cover;object-position:center center;top:-30px}.info{border-radius:4px;width:100%;padding:10px}@media (max-width:992px){.profile{height:100%}}
